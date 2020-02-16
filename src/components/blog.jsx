@@ -18,8 +18,8 @@ export default class Blog extends Component {
 						<a href="blog.html" className="blog-img"><img src="images/blog-1.jpg" className="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com" /></a>
 						<div className="desc">
 							<span><small>April 14, 2018 </small> | <small> Web Design </small> | <small> <i className="icon-bubble3" /> 4</small></span>
-							<h3><a href="blog.html">Renovating National Gallery</a></h3>
-							<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+							{/* <h3><a href="blog.html">Renovating National Gallery</a></h3>
+							<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p> */}
 						</div>
 					</div>
 					</div>
@@ -28,8 +28,8 @@ export default class Blog extends Component {
 						<a href="blog.html" className="blog-img"><img src="images/blog-2.jpg" className="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com" /></a>
 						<div className="desc">
 							<span><small>April 14, 2018 </small> | <small> Web Design </small> | <small> <i className="icon-bubble3" /> 4</small></span>
-							<h3><a href="blog.html">Wordpress for a Beginner</a></h3>
-							<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+							{/* <h3><a href="blog.html">Wordpress for a Beginner</a></h3>
+							<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p> */}
 						</div>
 					</div>
 					</div>
@@ -38,8 +38,8 @@ export default class Blog extends Component {
 						<a href="blog.html" className="blog-img"><img src="images/blog-3.jpg" className="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com" /></a>
 						<div className="desc">
 							<span><small>April 14, 2018 </small> | <small> Inspiration </small> | <small> <i className="icon-bubble3" /> 4</small></span>
-							<h3><a href="blog.html">Make website from scratch</a></h3>
-							<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+							{/* <h3><a href="blog.html">Make website from scratch</a></h3>
+							<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p> */}
 						</div>
 					</div>
 					</div>
